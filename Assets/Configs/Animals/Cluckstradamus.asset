@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: Cluckstradamus
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: 25f9abaeda02a0b4a96ce13c61e4dcae, type: 3}
+  animalName: Cluckstradamus
+  animalDescription: "They call me Cluckstradamus \u2014 seer of storms and whispers
+    of fate. My visions are not always kind, but they are always true."
+  animalAdvice:
+  - The winds say yes... but the clouds hesitate.
+  - "Your future is golden \u2014 if you dare to grasp it."
+  - Beware the next sunrise.
+  - Destiny nods. Proceed.
+  - The feathers fall in your favor.
+  - 'I wouldn''t count your eggs just yet. '
+  - A shadow delays what light had promised.
+  - Yes. The path is clear.
+  - "You\u2019re not ready \u2014 not yet."
+  - A surprise is flying your way
+  - Doubt caws in the distance.
+  - 'The stars blink uncertainly. '
+  - Certainly... if you move swiftly.
+  - "Better not now \u2014 fate is molting."
+  - The answer lies in silence.
+  - "It is written\u2026 but smudged."
+  - Take wing. The moment is ripe.
+  - Wait. The winds shift again.
+  - Your question echoes with power. Yes.
+  - 'Fate chuckles. Try again later. '
+  scorePrice: 3000
+  pointsPrice: 7

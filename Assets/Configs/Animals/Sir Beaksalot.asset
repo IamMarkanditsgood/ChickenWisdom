@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: Sir Beaksalot
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: 752a2eeab2217de43826bf64da45c922, type: 3}
+  animalName: Sir Beaksalot
+  animalDescription: "I am Sir Beaksalot \u2014 noble warrior of the skies! Ask me,
+    brave soul, and I shall reveal whether glory awaits or cowardice must be conquered."
+  animalAdvice:
+  - "Victory is possible \u2014 but only if you fight with honor. "
+  - "The challenge is great\u2026 and so are you. "
+  - No glory in this path. Choose again.
+  - 'Rise! Your moment approaches! '
+  - 'Only the bold earn their wings. '
+  - "Retreat now, and you\u2019ll regret it forever."
+  - 'Yes! Destiny favors the courageous. '
+  - This is not your battle to fight.
+  - 'You were born for this. '
+  - Strength lies not in the claws, but in the heart.
+  - Too soon. Train more
+  - A true hero waits for the right moment.
+  - 'Fly high, but mind the wind. '
+  - No! Face your fear first.
+  - "The battlefield is ready \u2014 are you?"
+  - Doubt is your only enemy.
+  - Now is the time to strike!
+  - The skies open for the brave.
+  - Not yet. Your legend needs patience.
+  - "Yes\u2026 and your story shall be told in feathers and flame!"
+  scorePrice: 3000
+  pointsPrice: 7

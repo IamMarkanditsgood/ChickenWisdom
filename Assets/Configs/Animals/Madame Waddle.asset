@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: Madame Waddle
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: 316d11ad4b7034d4e973e5912496d60f, type: 3}
+  animalName: Madame Waddle
+  animalDescription: "Darling, I am Madame Waddle \u2014 expert in affairs of the
+    heart. I see passion, heartbreak... and everything in between. Ask me what your
+    heart desires."
+  animalAdvice:
+  - 'Oh yes, love is definitely in the air. '
+  - "Mmm\u2026 not today, sweetheart."
+  - "Your heart\u2019s wish may come true \u2014 if you\u2019re brave enough."
+  - 'Someone special is watching from afar. '
+  - Love? Please. Focus on yourself first.
+  - 'A romantic surprise awaits. '
+  - "Better wait \u2014 the stars aren\u2019t aligned. "
+  - 'You deserve better, darling. '
+  - "Oof, that\u2019s not love \u2014 that\u2019s confusion."
+  - "A spark is coming\u2026 be ready to catch it."
+  - "Don\u2019t trust sweet words this time."
+  - Flirt? Yes. Fall? Not yet.
+  - Someone is already falling for you.
+  - That egg has already cracked, dear.
+  - Patience. Real love takes time.
+  - Too much drama ahead. Reroute.
+  - Butterflies? Yes. Stability? Not so much.
+  - The next step? Only if you're honest.
+  - "It could work \u2014 if they bring snacks."
+  - "No, darling. Don\u2019t call your ex."
+  scorePrice: 3000
+  pointsPrice: 7

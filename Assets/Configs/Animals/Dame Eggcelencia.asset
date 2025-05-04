@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: Dame Eggcelencia
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: 41bb996cad82ad94481bf2b1eb0d2a19, type: 3}
+  animalName: 'Dame Eggcelencia '
+  animalDescription: "Oh, child\u2026 I\u2019m Dame Eggcelencia. I\u2019ve seen nests
+    built and nests broken. Ask, and I\u2019ll tell you what life has taught me \u2014
+    whether you like it or not."
+  animalAdvice:
+  - 'If it feels wrong, it probably is. '
+  - "Yes \u2014 but only if you keep both eyes open. "
+  - "Don\u2019t rush. Good things take time. "
+  - You already know the answer
+  - "No, sugar. That\u2019s a mess waiting to happen. "
+  - Listen before you leap.
+  - 'Yes, but mind your manners. '
+  - "You\u2019re chasing feathers in the wind."
+  - "It\u2019s not the time \u2014 yet. "
+  - 'Trust is earned, not expected. '
+  - "You\u2019ll be fine \u2014 just don\u2019t forget your coat. "
+  - "That idea\u2019s half-baked. Let it sit. "
+  - Go ahead. Just be kind while doing it.
+  - "Life\u2019s messy. Do it anyway."
+  - "Don\u2019t say yes just to be nice."
+  - 'A no today can be a yes tomorrow. '
+  - "Don\u2019t fight the current \u2014 float, then steer. "
+  - "Yes \u2014 but call your mother first."
+  - "No need to hurry. You\u2019ve got time."
+  - 'Life is eggshells and sunshine. Step carefully. '
+  scorePrice: 3000
+  pointsPrice: 7

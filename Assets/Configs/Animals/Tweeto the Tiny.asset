@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a24fe7a1142f948994af57dc75b7ba, type: 3}
+  m_Name: Tweeto the Tiny
+  m_EditorClassIdentifier: 
+  art: {fileID: 21300000, guid: bfce06b592772ca4781fbbe74429f8a2, type: 3}
+  animalName: 'Tweeto the Tiny '
+  animalDescription: "Hi!! I'm Tweeto! I may be tiny, but I\u2019ve got big ideas
+    and bigger opinions. Ask me anything about your next move \u2014 I\u2019ve got
+    instincts and energy to spare!"
+  animalAdvice:
+  - "You\u2019ve got this! Go for it! "
+  - "Hmm\u2026 feels risky. Maybe wait a bit? "
+  - "The seeds are planted \u2014 now grow, grow, grow! "
+  - 'Nope! Bad idea. Abort mission. '
+  - "Oh YES \u2014 success is flapping your way!"
+  - "Trust your gut. It\u2019s smarter than it looks."
+  - "You\u2019re not ready. Yet."
+  - Boom! Brilliant idea.
+  - Too chaotic. Simplify first
+  - "Try again\u2026 but with more snacks. "
+  - That plan? It's got wings.
+  - "Don't do it for the fame \u2014 do it for the fun."
+  - Profit? Maybe. Joy? Definitely.
+  - "You\u2019re pecking at the right opportunity."
+  - "Back away slowly. This one\u2019s not for you."
+  - 'A tiny risk can hatch a big reward. '
+  - Breathe. Then build.
+  - "Trust yourself. You\u2019re smarter than you squawk."
+  - Nope nope nope nope nope.
+  - "Yes! But don\u2019t forget to sleep."
+  scorePrice: 3000
+  pointsPrice: 7
